@@ -1,18 +1,36 @@
-# 🌟Make Sure You Read all Instructions :
+# ⭐ Plant-Disease-Detection & Fertilizer Suggestion using CNN
+* Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using Convoluitona neural Netowork for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset.
 
-##### This code is fully funcional web app which is already deployed in heroku cloud server
+## ⭐Testing Images
 
-##### You have install requirements.txt for run this code in your pc
+* If you do not have leaf images then you can use test images located in test_images folder
+* Each Image have it's disease name so you can verify model is working perfact or not.
 
-##### For heroku we also have to create on Procfile
+## Tech Stack
+![PYTHON](https://img.shields.io/badge/PYTHON-%20-orange)&nbsp;
+![CNN](https://img.shields.io/badge/CNN-%20-yellow)&nbsp;
+![FLASK](https://img.shields.io/badge/FLASK-%20-red)&nbsp;
 
-##### Your "plant_disease_model_1_latest.pt" should be in this folder. You have to trained that model in your pc/laptop and drag it to this folder
+## ⭐Snippet of Web App :
+<table>
+  <tr>
+    <td><img src="demo_images/1.png" alt="mockup" /></td>
+    <td><img src="demo_images/2.png" alt="mockups" /></td>
+  </tr>
+   <tr>
+    <td><img src="demo_images/3.png" alt="mockup" /></td>
+    <td><img src="demo_images/4.png" alt="mockups" /></td>
+  </tr>
+   <tr>
+    <td><img src="demo_images/5.png" alt="mockup" /></td>
+    <td><img src="demo_images/6.png" alt="mockups" /></td>
+  </tr>
+</table>
 
-##### First check the Model section of this Repo. After that you can understand deployed app.
+<h2>📬 Contact</h2>
 
-##### Make sure if you change the model name then also change the name of the model argument in the app.py
+If you want to contact me, you can reach me through below handles.
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akash-bhambere-6307011ab)
 
-# ⭐Requirements 
-#### You have to Installed all the requirments. Save all the below requirements in requirements.txt
-#### Run this line in cmd/shell :  pip install -r requirements.txt
+© 2022 Akash Bhambere
