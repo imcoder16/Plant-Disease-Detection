@@ -14,16 +14,16 @@
 ## ⭐Snippet of Web App :
 <table>
   <tr>
-    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/1.png" alt="mockup" /></td>
-    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/2.png" alt="mockups" /></td>
+    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/1.jpg" alt="mockup" /></td>
+    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/2.jpg" alt="mockups" /></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/3.png" alt="mockup" /></td>
-    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/4.png" alt="mockups" /></td>
+    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/3.jpg" alt="mockup" /></td>
+    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/4.jpg" alt="mockups" /></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/5.png" alt="mockup" /></td>
-    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/6.png" alt="mockups" /></td>
+    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/5.jpg" alt="mockup" /></td>
+    <td><img src="https://github.com/imcoder16/Plant-Disease-Detection/blob/main/demo_images/6.jpg" alt="mockups" /></td>
   </tr>
 </table>
 
